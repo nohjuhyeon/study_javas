@@ -24,9 +24,6 @@
 |6|[Ifs](src/Ifs.java)|가정문 사용하기||
 |7|[Loops : For](src/LoopsFors.java)|for문을 사용하여 반복문 만들기||
 |8|[Loops : While](src/LoopsWhiles.java)|for문을 사용하여 반복문 만들기||
-|9|[Format](src/Sample.java)|문자, 숫자 입력하기||
-|10|[Format](src/Sample.java)|문자, 숫자 입력하기||
-|11|[Format](src/Sample.java)|문자, 숫자 입력하기||
 
 </details>
 
