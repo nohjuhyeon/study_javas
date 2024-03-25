@@ -24,6 +24,8 @@
 |6|[Ifs](src/Ifs.java)|가정문 사용하기||
 |7|[Loops : For](src/LoopsFors.java)|for문을 사용하여 반복문 만들기||
 |8|[Loops : While](src/LoopsWhiles.java)|for문을 사용하여 반복문 만들기||
+|9|[DataType : String](src/DataTypesStrings.java)|문자형 데이터 살펴보기||
+|10|[DataType : ArrayList](src/DataTypeArrayLists.java)|리스트형 데이터 살펴보기||
 
 </details>
 
@@ -36,6 +38,7 @@
 |1|[Scanner : Sum](src/Additions.java)|입력 받은 값들을 더하여 출력하기||
 |2|[For : ifs](src/ForsIfs.java)|4의 배수인 경우, 값 출력하기||
 |3|[While : ifs](src/WhilesIfsBreak.java)|점수에 따라 등급 출력하기||
+|4|[For : ArrayList](src/pollsWithoutDB.java)|설문조사 답변 리스트 작성하기||
 
 
 </details>
