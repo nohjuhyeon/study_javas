@@ -12,7 +12,7 @@
 
 
 <details open>
-<summary><h1>Jaba Basic</h1></summary>
+<summary><h1>Java Basic</h1></summary>
 
 |구분|이름|설명|비고|
 |--|--|--|--|
@@ -32,7 +32,7 @@
 
 
 <details open>
-<summary><h1>Jaba Quest</h1></summary>
+<summary><h1>Java Quest</h1></summary>
 
 |구분|이름|설명|비고|
 |--|--|--|--|
