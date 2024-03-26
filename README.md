@@ -16,9 +16,9 @@
 
 |구분|이름|설명|비고|
 |--|--|--|--|
-|1|[Format](src/Sample.java)|자바 스크립트 기본 설정||
+|1|[Format](src/Sample.java)|자바 기본 설정||
 |2|[Print](src/Main.java)|출력하기||
-|3|[Data type](src/DataTypes.java)|자바 스크립트의 데이터 타입||
+|3|[Data type](src/DataTypes.java)|자바의 데이터 타입||
 |4|[Scanner](src/Scanners.java)|Scanner를 통해 데이터 입력하기||
 |5|[Booleans](src/Booleans.java)|논리 자료형 데이터 살펴보기||
 |6|[Ifs](src/Ifs.java)|가정문 사용하기||
